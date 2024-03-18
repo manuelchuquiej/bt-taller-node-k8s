@@ -1,1 +1,2 @@
-# bt-taller-node-k8s
+# MANUEL CHUQUIEJ
+# 1. FUNDAMENTOS DE JS
